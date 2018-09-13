@@ -262,10 +262,10 @@
 
 		};
 		pmi8950_fg: qcom,fg {
-			 qcom,resume-soc = <97>;
+			 qcom,resume-soc = <95>;
 			 qcom,fg-iterm-ma = <250>;
 			 qcom,fg-chg-iterm-ma = <200>;
-			 qcom,fg-cutoff-voltage-mv = <3400>;
+			 qcom,fg-cutoff-voltage-mv = <3500>;
 			 qcom,fg-cc-cv-threshold-mv=<4390>;
 			 qcom,ext-sense-type;//TQY
 			 qcom,warm-bat-decidegc=<480>;
