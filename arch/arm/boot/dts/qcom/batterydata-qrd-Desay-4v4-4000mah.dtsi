@@ -1,9 +1,9 @@
 
 qcom,2312442_wingtech_a12desay_4000mah_averaged_masterslave_feb1st2016 {
 	qcom,max-voltage-uv = <4400000>;
-	qcom,nom-batt-capacity-mah = <4000>;
+	qcom,nom-batt-capacity-mah = <4600>;
 	qcom,batt-id-kohm = <30>;
-	qcom,battery-beta = <4100>;
+	qcom,battery-beta = <4700>;
 	qcom,thermal-coefficients = [DA 85 5E 4A DB 35];
 	qcom,battery-type = "qrd_msm8937_Desay_4000mah";
 	qcom,chg-rslow-comp-c1 = <3278930>;

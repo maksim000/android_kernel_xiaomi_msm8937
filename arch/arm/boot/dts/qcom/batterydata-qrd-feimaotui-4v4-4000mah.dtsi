@@ -1,9 +1,9 @@
 
 qcom,2336564_wingtech_s88537a1scud_4000mah_averaged_masterslave_mar1st2016 {
 	qcom,max-voltage-uv = <4400000>;
-	qcom,nom-batt-capacity-mah = <4100>;
+	qcom,nom-batt-capacity-mah = <4700>;
 	qcom,batt-id-kohm = <10>;
-	qcom,battery-beta = <4250>;
+	qcom,battery-beta = <4850>;
 	qcom,thermal-coefficients = [B7 85 B2 49 71 35];
 	qcom,battery-type = "qrd_msm8937_feimaotui_4000mah";
 	qcom,chg-rslow-comp-c1 = <2463522>;

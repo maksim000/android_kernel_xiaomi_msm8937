@@ -1,9 +1,9 @@
 
 qcom,2312470_wingtech_a12atl_4000mah_averaged_masterslave_feb1st2016 {
 	qcom,max-voltage-uv = <4400000>;
-	qcom,nom-batt-capacity-mah = <4000>;
+	qcom,nom-batt-capacity-mah = <4600>;
 	qcom,batt-id-kohm = <68>;
-	qcom,battery-beta = <4150>;
+	qcom,battery-beta = <4750>;
 	qcom,thermal-coefficients = [D2 85 0D 4A A5 35];
 	qcom,battery-type = "qrd_msm8937_Atl_4000mah";
 	qcom,chg-rslow-comp-c1 = <3011278>;

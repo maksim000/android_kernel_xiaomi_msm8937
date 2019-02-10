@@ -1,9 +1,9 @@
 
 qcom,2336567_wingtech_s88537a1coslight_4000mah_averaged_masterslave_mar3rd2016 {
 	qcom,max-voltage-uv = <4400000>;
-	qcom,nom-batt-capacity-mah = <4000>;
+	qcom,nom-batt-capacity-mah = <4600>;
 	qcom,batt-id-kohm = <100>;
-	qcom,battery-beta = <4250>;
+	qcom,battery-beta = <4850>;
 	qcom,thermal-coefficients = [B7 85 B2 49 71 35];
 	qcom,battery-type = "qrd_msm8937_Coslight_4000mah";
 	qcom,chg-rslow-comp-c1 = <3658227>;
